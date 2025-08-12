@@ -24,7 +24,7 @@ Outside of coding, I enjoy **weightlifting**, exploring new cuisines, and playin
 ---
 
 ## 📌 Featured Projects  
-*(Additional work under NDAs cannot be shared publicly)*  
+*(Additional work under NDAs cannot be shared publicly - SALT OpenAI Governance + Zebra LLM Training)*  
 
 - **[QML-FinancePrediction](https://github.com/HusssainR/QML-FinancePrediction)** — Hybrid quantum ML model using Qiskit to classify stock portfolios by risk level using volatility, Sharpe ratio, and drawdown.  
 - **[Embedded-Dense-Coding](https://github.com/HusssainR/Embedded-Dense-Coding)** — Novel protocol for embedding information in higher-dimensional quantum states to enhance dense coding capacity.  
