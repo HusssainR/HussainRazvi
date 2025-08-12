@@ -2,7 +2,7 @@
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">  
 
 ## 🚀 About Me  
-🎓 I'm Hussain Razvi, a **Computer Science & Physics** student at the University of Illinois Urbana–Champaign (James Scholar), graduating in **2026**.  
+🎓 I'm Hussain Razvi, a **Computer Science & Physics** student at the University of Illinois Urbana–Champaign (James Scholar), graduating in **2027**.  
 
 🔬 My work focuses on **quantum computing**, **machine learning**, and **high-performance software engineering**. I've conducted guided quantum algorithm research with **Prof. Eric Chitambar** and completed the **Qiskit Global Summer School** on quantum algorithms, error correction, and superconducting qubits.  
 
