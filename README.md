@@ -1,70 +1,44 @@
-# HussainRazvi
+# HussainRazvi  
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">  
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## 🚀 About Me  
+🎓 I'm Hussain Razvi, a **Computer Science & Physics** student at the University of Illinois Urbana–Champaign (James Scholar), graduating in **2026**.  
 
-## 🚀 About Me
+🔬 My interests lie at the intersection of **quantum computing**, **machine learning**, and **high-performance software engineering**. I've conducted guided quantum algorithm research with **Prof. Eric Chitambar** and completed the **Qiskit Global Summer School** on quantum algorithms, error correction, and superconducting qubits.  
 
-🎓 My name is Hussain Razvi, I'm a student at UIUC Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2026. 
+💻 Professionally, I’ve worked as a **Software Engineer Intern** at **Zebra Technologies**, developed blockchain integrations with **Salt & OpenAI**, and contributed to Web3, quantum machine learning, and cross-platform app development projects.  
 
-👨‍💻 As I've explored my major, I have recently been working with **web3 technologies**. Developments in Solana have led me to join RSOs like Illini blockchain. Creating smart contracts and understanding investment strategies to work with organizations like **DormDao**. In addition, I am also pursuing a career/minor in Physics to join a research lab in **quantum computing** technologies and eventually work in an Acedmia based career. Currently, I am gaining experience in Web3 development, typescript from Blochain testing; Flutter, Firebase, and Dart from **Medlaucnch RSO**; and Data structure manipulations from classes like CS 225. 
+Outside of coding, you’ll find me **weightlifting**, exploring different cuisines, and enjoying basketball, volleyball, and badminton.  
 
-🎸 Outside of school and work, I enjoy weightlifting, exploring different cuisines, and spending time with friends. During my high school days, I competed in men's gymnastics, and I'm still passionate about basketball, volleyball, and badminton.
+---
 
-## 🏅 Achievements
+## 🏅 Achievements  
+- 🥇 **3rd Place** — Solana Hack Illinois (2024)  
+- 🥇 **Top 15 National** — Lemelson-MIT InvenTeams Research Proposal (2022)  
+- ⭐ **Outstanding Citizen Award** — Village of Mundelein (2022)  
+- 🥇 **Top 75** — Samsung Solve for Tomorrow (2021)  
 
--   🥇 **3rd** at Soloana Hack Illinois (2024)
--   🥇 **10th** Nationally for Lemelsom-MIT InvenTeams research proposal (2022)
--   ⭐ **Outstanding Citizen Award** For the village of Mundelein (September 2022)
--   🥇 **Top 75** at Samsung Solve For Tomorrow (2021)
+---
 
+## 📌 Featured Projects  
+Here are some of my public repositories. I also have additional work under **NDAs** that cannot be shared publicly.  
 
-## 🛠️ Skills
+![GitHub Projects](./projects_screenshot.png)  
+> *(QML-FinancePrediction, Embedded-Dense-Coding, quantummaiide, CU-Care, and more)*  
 
-### Languages
+- **[QML-FinancePrediction](https://github.com/HusssainR/QML-FinancePrediction)** — Hybrid quantum ML model using Qiskit to classify stock portfolios by risk level using volatility, Sharpe ratio, and drawdown.  
+- **[Embedded-Dense-Coding](https://github.com/HusssainR/Embedded-Dense-Coding)** — Novel protocol for embedding information in higher-dimensional quantum states to enhance dense coding capacity.  
+- **[quantummaiide](https://github.com/HusssainR/quantummaiide)** — Quantum IDE built around Qiskit with fidelity/error correction visualization and AI-assisted features.  
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+---
 
-### Front-End Development
+## 🛠 Skills  
+**Languages**: Python (NumPy, PyTorch, Matplotlib), C++, Dart, TypeScript, SQL, Solidity  
+**Frameworks & Tools**: Qiskit, React, Flutter, Firebase, Web3.js, GCP, JIRA  
+**Specialties**: Quantum Computing, Quantum Machine Learning, Web3 Development, Cross-Platform Applications  
 
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+---
 
-### Block-Chain Development
-
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-### Cross Platform Development
-
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Backend as a Service (BaaS)
-
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Design Tools
-
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
-![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-### Testing
-
-![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## 🖥️ Workspace Setup
-
-![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-## 🔗 Links
-
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hrazvi2@illinois.edu)
+## 📫 Connect with Me  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrazvi2@illinois.edu)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusssainR)  
