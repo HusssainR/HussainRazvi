@@ -44,15 +44,15 @@ Outside of coding, I enjoy **weightlifting**, exploring new cuisines, and playin
 mindmap
   root((Quantum Research Goals))
     Quantum Algorithms
-      "Develop novel protocols"
-      "Improve efficiency and scalability"
+      "Develop "novel/classical" protocols"
+      "Stress test/toy models of curr computers"
       "Collaborate on open-source Qiskit projects"
     Quantum Networking
-      "Explore better implementations"
-      "Enhance communication capacity"
+      "Cost analysis of entanglement production
+      "Embedded Dense Coding paper"
     ML Integration
-      "Apply machine learning to optimize quantum algorithms"
+      "Apply machine learning for quantum nodes"
       "Advance QML for real-world financial and scientific applications"
     Accessibility
-      "Increase access to quantum computing education"
+      "Qiskit Advocate + IBM fall fest host"
       "Build tools for researchers and students"
